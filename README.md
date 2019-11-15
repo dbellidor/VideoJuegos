@@ -1,2 +1,2 @@
-Repositorio para el curso de videojuegos
-Diego Bellido Ramos
+Repositorio para el curso de videojuegos:Diego Bellido Ramos
+
